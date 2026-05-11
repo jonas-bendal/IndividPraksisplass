@@ -1,2 +1,4 @@
-# IndividPraksisplass
-Min egen nettside for søknader av praksisplass
+# Hjemmeside
+Praksisfag IS-302
+
+https://arildb88.github.io/Hjemmeside/omoss.html
